@@ -6,24 +6,34 @@ This repository provides a selection of ready-to-use resume templates. Choose a 
 
 ## Featured Templates
 
-* **Template 1: Beginners** 
-   [Image of Template 1](images/Resume01.png)
+* **Template 1: Beginners**
+
+   <img src="../main/images/Resume01.png" width="30%">
+   
    * Ideal for beginners.
 
-* **Template 2** 
-   [Image of Template 2](images/Resume02.png)
+* **Template 2**
+  
+   <img src="../main/images/Resume02.png" width="30%">
+   
    *  One page resume For experienced professionals.
   
-* **Template 3: Beginners** 
-   [Image of Template 3](images/Resume03.png)
+* **Template 3: Beginners**
+  
+   <img src="../main/images/Resume03.png" width="30%">
+   
    * For beginners
 
-* **Template 4** 
-   [Image of Template 4](images/Resume04.png)
+* **Template 4**
+  
+   <img src="../main/images/Resume04.png" width="30%">
+   
    * One page resume For experienced professionals.
 
-* **Template 5: Experienced** 
-   [Image of Template 5](images/Resume05.png)
+* **Template 5: Experienced**
+  
+   <img src="../main/images/Resume05.png" width="30%">
+   
    *  Two pages resume For experienced professionals.
 
 ## How to Use
